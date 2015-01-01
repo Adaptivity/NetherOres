@@ -1,6 +1,6 @@
 entity.NetherOres.netherOresHellfish.name = Адская рыбка
 
-tile.netherores.hellfish.name = tile.hellrock
+tile.netherores.hellfish = tile.hellrock
 tile.netherores.ore.coal.name = Угольная руда Нижнего мира
 tile.netherores.ore.diamond.name = Алмазная руда Нижнего мира
 tile.netherores.ore.gold.name = Золотая руда Нижнего мира
@@ -19,7 +19,7 @@ tile.netherores.ore.peridot.name = Оливиновая руда Нижнего 
 tile.netherores.ore.sapphire.name = Сапфировая руда Нижнего мира
 tile.netherores.ore.platinum.name = Платиновая руда Нижнего мира
 tile.netherores.ore.nickel.name = Никелевая руда Нижнего мира
-tile.netherores.ore.steel.name = Стальная руда Нижнего мира
+tile.netherores.ore.steel.name = Руда свиного железа Нижнего мира
 tile.netherores.ore.iridium.name = Иридиевая руда Нижнего мира
 tile.netherores.ore.osmium.name = Осмиевая руда Нижнего мира
 tile.netherores.ore.sulfur.name = Серная руда Нижнего мира
@@ -30,6 +30,6 @@ tile.netherores.ore.rutile.name = Рутиловая руда Нижнего м�
 tile.netherores.ore.tungsten.name = Вольфрамовая руда Нижнего мира
 tile.netherores.ore.amber.name = Янтарная руда Нижнего мира
 tile.netherores.ore.tennantite.name = Теннантитовая руда Нижнего мира
-tile.netherores.ore.salt.name = Руда соли Нижнего мира
+tile.netherores.ore.salt.name = Соляная руда Нижнего мира
 tile.netherores.ore.saltpeter.name = Селитровая руда Нижнего мира
 tile.netherores.ore.magnesium.name = Магниевая руда Нижнего мира
